@@ -1,0 +1,52 @@
+body{
+  font-family: sans-serif;
+  background: black;
+}
+
+header{
+    border-radius:30px ;
+    border:6px solid black;
+    padding:20px ;
+    color :white ;
+    text-align:center ;
+    background-color:green ;
+}
+
+main{
+    font-size:30px ;
+    background-color:#825c3e;
+    text-align:left;
+    padding:20px ;
+}
+
+nav{
+    margin-top: 10px;
+    padding:20px;
+    background:#3a6932 ;
+    text-align:center;
+    
+}
+a{
+    font-size:20px ;
+    color:white ;
+    border:2px dashed blue ;
+    padding:5px;
+}
+/*Зроби цей сайт красивим 😉*/
+
+h1{
+    color:#00ff8c;
+    
+}
+
+h5{
+    color:#9effa1;
+}
+
+h2{
+    color:#ffffff;
+}
+
+footer{
+    text-align:center;
+}
